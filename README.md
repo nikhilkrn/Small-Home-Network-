@@ -37,5 +37,3 @@ This project simulates a basic home network using **coaxial cable connections** 
 This is an educational project built to demonstrate core concepts in home networking. It is not intended for production use.
 
 ---
-
-Want me to add badges or a preview image section too?
