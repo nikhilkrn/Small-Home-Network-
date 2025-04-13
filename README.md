@@ -27,7 +27,7 @@ This project simulates a basic home network using **coaxial cable connections** 
 
 ## 🚀 How to Use
 
-1. Open the `.pkt` file using Cisco Packet Tracer.
+1. Open the `.pka` file using Cisco Packet Tracer.
 2. Explore the topology and inspect configurations.
 3. Modify IPs or add new devices to practice further.
 4. Use simulation mode to observe packet movement.
